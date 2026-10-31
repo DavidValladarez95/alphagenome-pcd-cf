@@ -1,0 +1,10 @@
+alphagenome
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+openpyxl
+python-dotenv
+requests
+pysam
