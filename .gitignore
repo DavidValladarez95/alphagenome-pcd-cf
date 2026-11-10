@@ -1,0 +1,23 @@
+# Clave de la API (nunca subir)
+.env
+
+# Entorno virtual y archivos de Python
+venv/
+__pycache__/
+*.pyc
+
+# Cachés (se regeneran al ejecutar el pipeline)
+cache_atlas.csv
+cache_externos/
+*.tbi
+
+# Resultados generados por el pipeline
+resultados_*/
+resultados_*.zip
+*.log
+
+# Manuscrito no publicado
+Articulo/
+
+# Datos de terceros con derechos (descargar desde la fuente original)
+NIHMS512446-supplement-12.xlsx
